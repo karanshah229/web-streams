@@ -1,0 +1,28 @@
+{
+	"name": "web-streams",
+	"version": "1.0.0",
+	"description": "Understand web streams and their inner workings",
+	"keywords": [
+		"web",
+		"streams"
+	],
+	"engines": {
+		"pnpm": ">=10"
+	},
+	"type": "module",
+	"homepage": "https://github.com/karanshah229/web-streams#readme",
+	"bugs": {
+		"url": "https://github.com/karanshah229/web-streams/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/karanshah229/web-streams.git"
+	},
+	"license": "ISC",
+	"author": "http://github.com/karanshah229",
+	"main": "index.js",
+	"scripts": {},
+	"dependencies": {
+		"fastify": "^5.8.2"
+	}
+}
