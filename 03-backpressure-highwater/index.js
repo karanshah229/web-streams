@@ -3,7 +3,7 @@
 import fs from "fs";
 import { fileURLToPath } from "url";
 import path from "path";
-import { delay } from "../common/utils.js";
+import { delay } from "../utils.js";
 import { Transform } from "stream";
 
 const __filename = fileURLToPath(import.meta.url);

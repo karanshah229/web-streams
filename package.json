@@ -24,6 +24,7 @@
 	"scripts": {},
 	"dependencies": {
 		"eventsource": "^4.1.0",
-		"fastify": "^5.8.2"
+		"fastify": "^5.8.2",
+		"node-hid": "^3.3.0"
 	}
 }
