@@ -1,0 +1,3 @@
+[submodule "05-new-streams-proposal"]
+	path = 05-new-streams-proposal
+	url = git@github.com:jasnell/new-streams.git
